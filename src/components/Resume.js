@@ -1,5 +1,5 @@
 import './Resume.css';
-import imag from 'A:/React Project/portfolio/src/components/aids.jpg';
+import imag from './aids.jpg';
 
 
 const Resume=()=>{

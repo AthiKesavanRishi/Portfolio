@@ -1,6 +1,6 @@
 import './Profile.css';
 import React, {useState} from 'react';
-import img from 'A:/React Project/portfolio/src/components/me.jpg';
+import img from './me.jpg';
 
 
 const Profile = () => {
